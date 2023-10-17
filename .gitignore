@@ -1,0 +1,32 @@
+# Node and package management
+node_modules/
+*.log
+package-lock.json
+yarn.lock
+
+# SvelteKit build output
+.svelte-kit/
+build/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+*.bak
+*.tmp
+*.sublime-*
+*.tmTheme.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Other
+.env
+.env.local
+
